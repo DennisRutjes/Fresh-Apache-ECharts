@@ -17,7 +17,7 @@ Before you dive in, ensure that Deno is properly installed on your system. Here'
 Once you're ready, fire up the project with:
 
 ```shell
-deno task start!
+deno task start
 ```
 
 Now kick back and relax. This command will keep an eye on the project directory, restarting when necessary.
